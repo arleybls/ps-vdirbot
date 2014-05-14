@@ -8,7 +8,7 @@
 	#   Examples:
 	#	   D: or \\1.2.3.4\d$
 	#
-	$srcdir			= "\\x.x.x.x\share$"
+	$srcdir	        = "\\x.x.x.x\share$"
 	$srccontent	= "$srcdir\content"
 	$dstcontent	= "<Drive>:\wwwroot"
 	#
