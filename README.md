@@ -6,6 +6,7 @@ An script to automate creation fo websites, vdirs, application pools from a set 
 
 Data Model:
 
+```sql
 CREATE TABLE sites (
   S_ID       int          NOT NULL AUTO_INCREMENT,
   site       varchar(255) NOT NULL,
@@ -23,4 +24,4 @@ CREATE TABLE vdirs (
   path       varchar(510),
 PRIMARY KEY (VD_ID)
 )
-
+```
