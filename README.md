@@ -1,7 +1,7 @@
 ps-vdirbot
 ==========
 
-An script to automate creation fo websites, vdirs, application pools from a set of tables on a database.
+A powershell script to automate creation of websites, vdirs and application pools from a set of tables on a database.
 
 
 Data Model:
